@@ -1,0 +1,43 @@
+.Home-Div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-image: url("../photos/Jihanki-photoaidcom-2x-ai-zoom.webp");
+  background-size: cover;
+  height: 95vh;
+}
+
+.Home-VMText {
+  padding: 30px;
+  font-size: 30px;
+  margin-left: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 200px;
+  width: 300px;
+  border-radius: 8px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: whitesmoke;
+}
+
+.Home-LinkDiv {
+  padding: 20px;
+  font-size: 30px;
+  margin-left: 10px;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  text-align: center;
+  height: 150px;
+  width: 300px;
+  border-radius: 8px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: whitesmoke;
+}
+
+.Home-Link {
+  text-decoration: none;
+  color: whitesmoke;
+}
